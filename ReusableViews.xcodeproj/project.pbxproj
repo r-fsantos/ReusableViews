@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8824BD13283AF4E900767D32 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8824BD12283AF4E900767D32 /* UIViewController+Extensions.swift */; };
 		883C5565283838D3002BD59E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883C5564283838D3002BD59E /* AppDelegate.swift */; };
 		883C5567283838D3002BD59E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883C5566283838D3002BD59E /* SceneDelegate.swift */; };
 		883C5569283838D3002BD59E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 883C5568283838D3002BD59E /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8824BD12283AF4E900767D32 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
 		883C5561283838D3002BD59E /* ReusableViews.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReusableViews.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		883C5564283838D3002BD59E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		883C5566283838D3002BD59E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 			isa = PBXGroup;
 			children = (
 				883C558128383B75002BD59E /* UIVIew+Extensions.swift */,
+				8824BD12283AF4E900767D32 /* UIViewController+Extensions.swift */,
 			);
 			path = Communs;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				883C558228383B75002BD59E /* UIVIew+Extensions.swift in Sources */,
 				883C5569283838D3002BD59E /* ViewController.swift in Sources */,
 				883C5565283838D3002BD59E /* AppDelegate.swift in Sources */,
+				8824BD13283AF4E900767D32 /* UIViewController+Extensions.swift in Sources */,
 				883C5567283838D3002BD59E /* SceneDelegate.swift in Sources */,
 				883C557F28383B2B002BD59E /* TemplateView.swift in Sources */,
 				883C557C28383A5B002BD59E /* ViewCode.swift in Sources */,
